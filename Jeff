@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<link rel="icon" href="jeff.jpg" type="image/x-icon">
+
+<style>
+	.Van{
+		
+		background-color: yellow;
+		text-align: center;
+		}
+	h2{
+		color :red;
+	}
+	h1{
+		font-size :50pt;
+		color :#3498DB;
+	}
+</style>
+<html>
+				<!-- Hello and welcome to the source of Jeff's Website-->
+<head>
+    <title>Jeff's Campaign</title>
+</head>
+<body>
+<div Class = "Van">
+    <header><h1><marquee scrollamount="15" behavior="alternate">Jeff for President</marquee></h1></header>
+    <main>
+
+<img src="jeff.jpg" width="400"/><p>
+<h2>Oh my God!</h2>
+</p>
+
+        <article>
+            <p><marquee scrollamount="18" direction="right" behavior="alternate"><b>Jeff is the man</b></marquee></p>
+        </article>
+        <article>
+            <p>Jeff should be the President</p>
+        </article>
+		
+        <footer>&copy; 2018 Jeff's Campaign</footer>
+	<hr>
+	</div>
+</body>
+</html>
